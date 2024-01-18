@@ -5,3 +5,7 @@ La idea de este repositorio es, en principio, usar la wiki y la página de discu
 El proyecto está intencionalmetne vacío para predisponer al mínimo posible la dirección que pueda tomar, que podemos conversar en [discusiones](https://github.com/alcarraz/peru-jugos-project/discussions).
 
 Si no estás en el grupo de whatsapp, [acá está el link](https://chat.whatsapp.com/LwDvPAzFsOXJZ4rRiGisSf) para unirte.
+
+## Por qué del nombre
+
+El nombre es provisional, Peru JUGOS (Java User Group Open Source) Project.
